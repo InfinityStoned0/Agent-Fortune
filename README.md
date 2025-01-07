@@ -1,2 +1,2 @@
 # Agent-Fortune
-This API uses data fetched from dexscreener's free API to analyze for it's price movements with technical indicators and outputs the most promising coins with a potential of being profitable.
+This API fetches crypto coin information from dexscreener's free API and outputs it's RSI and price movement information.

@@ -1,5 +1,6 @@
 # Agent-Fortune
-This API fetches crypto coin information from dexscreener's free API and outputs it's RSI and price movement information.
+This API fetches the trading information of a crypto coin from dexscreener's free API and outputs it's RSI and price movement information.
+The contract address of the token(s) should be put into the "predefined_tokens.txt" file.
 
 # Usage
 Install required dependencies
